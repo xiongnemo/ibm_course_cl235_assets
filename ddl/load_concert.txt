@@ -1,0 +1,28 @@
+SQL3109N  The utility is beginning to load data from file 
+"/db2_lab_data/concerts.del".
+
+SQL3500W  The utility is beginning the "LOAD" phase at time "01/07/2021 
+17:16:55.978759".
+
+SQL3519W  Begin Load Consistency Point. Input record count = "0".
+
+SQL3520W  Load Consistency Point was successful.
+
+SQL3110N  The utility has completed processing.  "10" rows were read from the 
+input file.
+
+SQL3519W  Begin Load Consistency Point. Input record count = "10".
+
+SQL3520W  Load Consistency Point was successful.
+
+SQL3515W  The utility has finished the "LOAD" phase at time "01/07/2021 
+17:16:56.151950".
+
+
+Number of rows read         = 10
+Number of rows skipped      = 0
+Number of rows loaded       = 10
+Number of rows rejected     = 0
+Number of rows deleted      = 0
+Number of rows committed    = 10
+

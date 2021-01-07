@@ -1,0 +1,36 @@
+SQL3109N  The utility is beginning to load data from file 
+"/db2_lab_data/artists.del".
+
+SQL3500W  The utility is beginning the "LOAD" phase at time "01/07/2021 
+17:16:57.525996".
+
+SQL3519W  Begin Load Consistency Point. Input record count = "0".
+
+SQL3520W  Load Consistency Point was successful.
+
+SQL3110N  The utility has completed processing.  "79" rows were read from the 
+input file.
+
+SQL3519W  Begin Load Consistency Point. Input record count = "79".
+
+SQL3520W  Load Consistency Point was successful.
+
+SQL3515W  The utility has finished the "LOAD" phase at time "01/07/2021 
+17:16:57.744084".
+
+SQL3500W  The utility is beginning the "BUILD" phase at time "01/07/2021 
+17:16:57.763703".
+
+SQL3213I  The indexing mode is "REBUILD".
+
+SQL3515W  The utility has finished the "BUILD" phase at time "01/07/2021 
+17:16:57.914682".
+
+
+Number of rows read         = 79
+Number of rows skipped      = 0
+Number of rows loaded       = 79
+Number of rows rejected     = 0
+Number of rows deleted      = 0
+Number of rows committed    = 79
+
