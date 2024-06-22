@@ -11,7 +11,7 @@ docker run -itd --name mydb2 --privileged=true \
 -e LICENSE=accept \
 -e DB2INST1_PASSWORD=******** \
 -e DBNAME=musicdb \
--v <where_you_want_to_persist_your_database_data>/database \
+-v <where_you_want_to_persist_your_database_data>:/database \
 -v <this_repo_s_path_on_machine>:/db2_lab_data \
 ibmcom/db2
 ```
